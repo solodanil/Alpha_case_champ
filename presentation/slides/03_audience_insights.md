@@ -7,6 +7,6 @@
 - Методология исследования — указать явно (интервью/опросы + вторичные данные, `research/interview_guide*.md`, `research/interviews/synthetic/`).
 - Инсайт → решение: раз отток = закрытие, удержание строится не на бонусах, а на помощи в кризис (слайды 8–9, 11).
 
-Источник: `research/cjm.md`, `research/reports/ChatGPT-portrait-report.md`, `research/strategy_draft.md`.
+Источник: `research/cjm.md`, `research/reports/ChatGPT-portrait-report.md`, `research/branch_support_retention.md`.
 
 *Наполнить: 18.07 — вставить финальные цифры и 1–2 цитаты из интервью.*
